@@ -61,12 +61,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/kaveesha-admin/kaveesha-admin.svg" />
-  </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kaviya-admin" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=Prabhasha-p&color=blue&style=flat-square&label=Profile+Views)
+<p align="center"><a href="https://github.com/Prabhasha-p"><img src="https://github-readme-stats.vercel.app/api?username=Prabhasha-p&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Prabhasha-p"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhasha-p&theme=radical&layout=compact"></a></p> 
+
+
 
 ## Join My Group
 <a href="https://t.me/HiTechRocket" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
