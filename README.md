@@ -18,7 +18,10 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" /> \n
+
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
+  
+  
 - 👨🏽‍💻 I’m currently working on [All](https://github.com/Prabhasha-p/);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
 - 👯 I’m looking to collaborate on [Here](https://t.me/GalaxyLanka) 🤝;
