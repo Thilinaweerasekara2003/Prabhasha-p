@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: prabhasha999@gmail.com;
+- 📫 How to reach me:Thilinaweerasekara2003@gmail.com;
 
 **Languages and Tools:** 
 
