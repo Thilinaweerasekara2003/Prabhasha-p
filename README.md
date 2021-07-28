@@ -63,7 +63,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-![Profile views](https://komarev.com/ghpvc/?username=Thilinaweerasekara2003-p&color=blue&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=Thilinaweerasekara2003&color=blue&style=flat-square&label=Profile+Views)
 <p align="center"><a href="https://github.com/Thilinaweerasekara2003"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg-p&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Thilinaweerasekara2003"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilinaweerasekara2003-p&theme=radical&layout=compact"></a></p> 
 
